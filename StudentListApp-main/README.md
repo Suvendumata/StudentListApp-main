@@ -203,7 +203,4 @@ The application displays a student registration screen where student details can
 
 The Student List Android application was successfully developed and tested. Student details can be registered and displayed using ListView and ImageView.
 
-## 16. GitHub Repository
 
-**StudentListApp:**  
-https://github.com/Atiullah18/StudentListApp
